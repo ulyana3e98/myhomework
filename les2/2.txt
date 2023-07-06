@@ -51,6 +51,6 @@
     <li>second element</li>
     <li>third element</li>
 </ul>
-    <img src="m.jpeg" alt="Здесь должна быть картинка">
+<img src="m.jpeg" alt="Здесь должна быть картинка">
 </body>
 </html>

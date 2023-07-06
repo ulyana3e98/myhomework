@@ -1,0 +1,28 @@
+h1 {
+    background: purple;
+}
+
+.par_1 {
+    background: yellow;
+    font-size: 32pt;
+    color: green;
+}
+
+.par_2 {
+    border: 10px solid blue;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-top: 150px;
+    padding-left: 40px;
+    padding-bottom: 30px;
+}
+
+.par_3 {
+    font-weight: bold;
+    font-size: 24px;
+    font-family: Courier New;
+    font-style: oblique;
+    background: pink;
+    font-align: center;
+    text-shadow: 5px 10px green;
+}
